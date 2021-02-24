@@ -1,1 +1,1 @@
-# Face-recognition-using-OpenCV
+# Face recognition using OpenCV
