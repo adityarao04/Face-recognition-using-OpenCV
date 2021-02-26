@@ -2,4 +2,17 @@
 
 this is a part of my 30 day journey to learn Artificial Intelligence by doing practical projects. On my 7th day I made this project.
 
-If you are using any other external webCam, in main.py on line 5: cam = cv2.VideoCapture(0) change the value passed to VideoCapture from 0 to 1 or 2.
+![](Images/LBHP_img.JPG)
+![](Images/LBPHFaceRec.JPG)
+
+![](Images/fisherface.JPG)
+
+![](Images/blockDia.JPG)
+
+## Output
+
+![](Images/output.JPG)
+
+### using android phone(download the app IP webcam)
+
+![](Images/output_phone.JPG)
